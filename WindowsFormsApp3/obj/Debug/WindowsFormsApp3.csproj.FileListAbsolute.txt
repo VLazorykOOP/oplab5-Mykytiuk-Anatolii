@@ -1,0 +1,11 @@
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Anatoha\github-classroom\Modeluvann\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Ermit_line.resources
